@@ -1,7 +1,7 @@
-This project predicts **Structural Damage Index** (0–1 scale) based on environmental and geological factors.
+This project predicts **Economic Losses** based on earthquake magnitude and probabilistic alert levels provided by disaster forecasting systems
 
-ML algorithm: XGBoost Regressor (Gradient Boosting)
+ML algorithm: Random Forest Regressor
 
 Evaluation metrics: RMSE, R^2 score
 
-Output graphs: feature importance plot, actual vs predicted plot, residual distribution, correlation matrix
+Output graphs: feature importance plot, economic loss vs magnitude scatterplot
