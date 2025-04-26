@@ -1,7 +1,7 @@
-This project predicts **Economic Losses** based on earthquake magnitude and probabilistic alert levels provided by disaster forecasting systems
+This project predicts **the number of injuries** based on factors like the magnitude, length and width of a tornado.
 
-ML algorithm: Random Forest Regressor
+ML algorithm: XGBoost Regressor
 
 Evaluation metrics: RMSE, R^2 score
 
-Output graphs: feature importance plot, economic loss vs magnitude scatterplot
+Output graphs: feature importance plot, bell curve, and learning curve
